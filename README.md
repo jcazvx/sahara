@@ -6,13 +6,11 @@ Welcome to **sahara**, a simulated e-commerce platform crafted for educational p
 
 ### Phase 1: Front-End Implementation
 
-In the initial phase of the **sahara** project, the focus is on developing the front-end using the React framework. React's component-based architecture enables the creation of a dynamic and responsive user interface, which is essential for simulating the sophisticated interactivity found in e-commerce platforms. Redux is integrated for state management, ensuring a consistent and predictable state across the application, which is vital for managing user sessions and shopping cart data.
+In the initial phase of the project, the focus is on developing the front-end using the React framework. React's component-based architecture enables the creation of a dynamic and responsive user interface, which is essential for simulating the sophisticated interactivity found in e-commerce platforms. Redux is integrated for state management, ensuring a consistent and predictable state across the application, which is vital for managing user sessions and shopping cart data.
 
 ### Phase 2: Back-End Implementation
 
-The second phase introduces the back-end functionality, powered by Node.js and Express. This combination forms the core of our server-side operations, managing API requests and delivering dynamic content. MongoDB, a flexible NoSQL database, is employed for efficient data storage and retrieval, handling our product listings and user information. Elasticsearch enhances the user experience by providing powerful real-time search capabilities, crucial for navigating the extensive product catalog. A simulated payment gateway is also introduced, replicating transaction processes to provide a complete user experience without real financial transactions.
-
-This two-phased approach, supported by a carefully selected tech stack, ensures a comprehensive and immersive simulation of an e-commerce site, focusing on user interaction and backend robustness, thereby offering a detailed platform for educational demonstration.
+The second phase introduces the back-end functionality, powered by Node.js and Express. This combination forms the core of our server-side operations, managing API requests and delivering dynamic content. MongoDB is employed for efficient data storage and retrieval, handling our product listings and user information. Elasticsearch enhances the user experience by providing powerful real-time search capabilities, crucial for navigating the extensive product catalog. A simulated payment gateway is also introduced, replicating transaction processes to provide a complete user experience without real financial transactions.
 
 ## Disclaimer
 
