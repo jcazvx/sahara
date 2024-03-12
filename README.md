@@ -2,7 +2,7 @@
 
 Welcome to **sahara**, a simulated e-commerce platform crafted for educational purposes, designed to showcase my web development and coding exprience. While **sahara** provides a detailed exploration of how a modern e-commerce site is structured and implemented, it is not exhaustive in its scope. As a mock-up that mirrors the design and functionality of leading online stores, particularly Amazon, **sahara** serves as a practical demonstration of various web development facets, including front-end design, back-end operations, database management, and user interaction workflows. To maintain a focus on the core learning objectives, certain complexities—like full-fledged payment processing and intricate user profile management—have been intentionally simplified or excluded.
 
-## Project Development and Technologies Used
+## Project Development
 
 ### Phase 1: Front-End Implementation
 
