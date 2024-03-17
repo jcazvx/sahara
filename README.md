@@ -1,12 +1,12 @@
-# sahara <sub><sup>version 1.0.0</sup></sub>
+# sahara <sub><sup>version 1.0.2</sup></sub>
 
-Welcome to **sahara**, a simulated e-commerce platform crafted for educational purposes, designed to showcase my web development and coding exprience. While **sahara** provides a detailed exploration of how a modern e-commerce site is structured and implemented, it is not exhaustive in its scope. As a mock-up that mirrors the design and functionality of leading online stores, particularly Amazon, **sahara** serves as a practical demonstration of various web development facets, including front-end design, back-end operations, database management, and user interaction workflows. To maintain a focus on the core learning objectives, certain complexities—like full-fledged payment processing and intricate user profile management—have been intentionally simplified or excluded.
+Welcome to **sahara**, a simulated e-commerce platform crafted for educational purposes, designed to showcase my web development and coding experience. While **sahara** provides a detailed exploration of how a modern e-commerce site is structured and implemented, it is not exhaustive in its scope. As a mock-up that mirrors the design and functionality of leading online stores, particularly Amazon, **sahara** serves as a practical demonstration of various web development facets, including front-end design, back-end operations, database management, and user interaction workflows. To maintain a focus on the core learning objectives, certain complexities—like full-fledged payment processing and intricate user profile management—have been intentionally simplified or excluded.
 
 ## Project Development
 
 ### Phase 1: Front-End Implementation
 
-In the initial phase of the project, the focus is on developing the front-end using the React framework. React's component-based architecture enables the creation of a dynamic and responsive user interface, which is essential for simulating the sophisticated interactivity found in e-commerce platforms. Redux is integrated for state management, ensuring a consistent and predictable state across the application, which is vital for managing user sessions and shopping cart data.
+In the initial phase of the project, the focus is on developing the front-end using the React framework. React's component-based architecture enables the creation of a dynamic and responsive user interface, which is essential for simulating the sophisticated interactivity found in e-commerce platforms. Material-UI, a popular React UI framework, is leveraged for its pre-designed components and styling capabilities, facilitating the rapid development of a visually appealing and consistent user interface. Redux is integrated for state management, ensuring a consistent and predictable state across the application, which is vital for managing user sessions and shopping cart data.
 
 ### Phase 2: Back-End Implementation
 
